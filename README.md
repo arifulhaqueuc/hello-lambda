@@ -29,3 +29,19 @@ s3transfer==0.1.13
 six==1.12.0
 urllib3==1.24.1
 </pre>
+
+
+# Whhat to do next
+
+#### Task 1
+Please go to the following instruction page
+<br>
+[Instruction Page](https://github.com/arifulhaqueuc/hello-lambda/blob/master/UpNext.MD)
+
+
+#### Task 2
+ - make your code more modular
+ - add OOP
+ - create separate module for each function
+ 
+ 
