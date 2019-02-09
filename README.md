@@ -1,5 +1,5 @@
 # hello-lambda
-An AWS Lambda blueprint to showcase the power of serverless architecture through AWS Lambda Function
+An AWS Lambda blueprint to showcase the power of serverless architecture through AWS Lambda Function. While this is an excellent example of how to create an AWS Lambda function from strach, usage this app would be more meaningful if we could add some triggers with this Lambda function while implementing. 
 
 
 # Project Structure
